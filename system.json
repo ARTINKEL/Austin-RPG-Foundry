@@ -4,8 +4,8 @@
     "description": "austin's system",
     "author": "Austin",
     "version": "0.1.0",
-    "minimumCoreVersion": "0.7.4",
-    "compatibleCoreVersion": "0.7.4",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "0.8.9",
     "esmodules": [
         "austin-rpg.js"
     ],
