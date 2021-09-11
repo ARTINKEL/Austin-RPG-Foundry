@@ -1,5 +1,24 @@
 {
-    "Actor": {},
+    "Actor": {
+        "types": [
+            "player character",
+            "NPC",
+            "faction"
+        ],
+        "templates": {
+            "attributes": {
+                "aggression": 0,
+                "cognition": 0,
+                "cunning": 0,
+                "grace": 0,
+                "precision": 0
+            },
+            "skills": {
+                "melee combat": 0,
+                "ranged combat": 0
+            }
+        }
+    },
     "Item": {
         "types": [
             "weapon",

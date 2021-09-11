@@ -1,5 +1,5 @@
 {
-    "name": "austin-rpg",
+    "name": "austinrpg",
     "title": "Austin RPG",
     "description": "austin's system",
     "author": "Austin",
@@ -7,16 +7,20 @@
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion": "0.8.9",
     "esmodules": [
-        "austin-rpg.js"
+        "austinrpg.js"
     ],
     "styles": [
-        "austin-rpg.css"
+        "austinrpg.css"
     ],
     "packs": [
 
     ],
     "languages": [
-
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
     ],
     "gridDistance": 5,
     "gridUnits": "ft",

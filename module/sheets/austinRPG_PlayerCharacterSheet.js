@@ -1,6 +1,6 @@
-export default class austinRPG_ItemSheet extends ItemSheet {
+export default class austinRPG_PlayerCharacterSheet extends ActorSheet {
     get template(){
-        return 'systems/austinrpg/templates/sheets/weapon-sheet.html';
+        return 'systems/austinrpg/templates/sheets/actor-sheet.html';
     }
 
     getData() {
